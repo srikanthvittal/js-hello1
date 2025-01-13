@@ -4,7 +4,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="hello1"/>
+  <DisplayName DefaultValue="hello2"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://srikanthvittal.github.io/js-hello1/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://srikanthvittal.github.io/js-hello1/icon-64.png"/>
